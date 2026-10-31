@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+.env
+*.log
+.qa/node_modules/
+.qa/artifacts/
+.qa/preview-data/
+.deploy-cache/
+dist/
